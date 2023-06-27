@@ -1,2 +1,2 @@
 # LSTPNet
-The code is coming soon.
+code for paper "LSTPNet: Long Short-Term Perception Network for Dynamic Facial Expression Recognition in the Wild", coming soon.
