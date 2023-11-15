@@ -10,7 +10,7 @@ Official code repository for paper "LSTPNet: Long Short-Term Perception Network 
 </p>
 
 ## Test
-- Please Run `python test.py`, `python test.py`, `python test.py`
+- Please run `python test_DFEW.py`, `python test_FERV39k.py`, `python test_AFEW.py`, respectively.
 
 ## Results
 <p align="center">
