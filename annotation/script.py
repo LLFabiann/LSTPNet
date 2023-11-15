@@ -4,9 +4,6 @@ import os
 your_dataset_path = "D:/DL_Study/Facial_Ex_Data/DFEW/"
 
 all_txt_file = glob(os.path.join('DFEW*.txt'))
-# all_txt_file = glob(os.path.join('set*.txt'))
-# all_txt_file = glob(os.path.join('MAFW*.txt'))
-
 
 def update(file, old_str, new_str):
     file_data = ""
