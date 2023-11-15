@@ -12,7 +12,7 @@ Official code repository for paper "LSTPNet: Long Short-Term Perception Network 
 ## Test
 Download the pretrained model at [Google Driver](https://drive.google.com/drive/folders/1_nqZ21ZSd0RXY4f4auLt-1Qn4G4tIp4S?usp=drive_link).
 
-- Please run `python test_DFEW.py`, `python test_FERV39k.py`, `python test_AFEW.py`, respectively.
+Please run `python test_DFEW.py`, `python test_FERV39k.py`, `python test_AFEW.py`, respectively.
 
 ## Results
 <p align="center">
