@@ -8,3 +8,11 @@ Official code repository for paper "LSTPNet: Long Short-Term Perception Network 
     Overall architecture of the proposed LSTPNet.
     </em>
 </p>
+
+## Results
+<p align="center">
+    <img src="img/DFEW_result.png" width="100%"/> <br />
+ <em> 
+     Comparison with state-of-the-art methods on DFEW. The best results are highlighted in bold.
+    </em>
+</p>
