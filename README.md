@@ -3,7 +3,7 @@ Official code repository for paper "LSTPNet: Long Short-Term Perception Network 
 
 ## Overall Architecture
 <p align="center">
-    <img src="./LSTPNet.png" width="100%"/> <br />
+    <img src="./img/LSTPNet.png" width="100%"/> <br />
  <em> 
     Overall architecture of the proposed LSTPNet.
     </em>
