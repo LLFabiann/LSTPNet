@@ -95,8 +95,6 @@ def test():
     uar = np.around(uar, 5)
     print(f"Test UAR: {uar:.4f}.")
 
-    pass
-
 if __name__ == "__main__":                    
     test()
 
