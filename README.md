@@ -13,20 +13,20 @@ Official code repository for paper "LSTPNet: Long Short-Term Perception Network 
 <p align="center">
     <img src="img/DFEW_result.png" width="100%"/> <br />
  <em> 
-     Comparison with state-of-the-art methods on DFEW. The best results are highlighted in bold.
+    Comparison with state-of-the-art methods on DFEW. The best results are highlighted in bold.
     </em>
 </p>
 
 <p align="center">
-    <img src="img/FERV39k_result.png" width="80%"/> <br />
+    <img src="img/FERV39k_result.png" width="50%"/> <br />
  <em> 
-     Comparison with state-of-the-art methods on DFEW. The best results are highlighted in bold.
+    Comparison with state-of-the-art methods on FERV39k. The best results are highlighted in bold.
     </em>
 </p>
 
 <p align="center">
-    <img src="img/AFEW_result.png" width="80%"/> <br />
+    <img src="img/AFEW_result.png" width="50%"/> <br />
  <em> 
-     Comparison with state-of-the-art methods on DFEW. The best results are highlighted in bold.
+    Comparison with state-of-the-art methods on AFEW. The best results are highlighted in bold.
     </em>
 </p>
