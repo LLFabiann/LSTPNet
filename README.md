@@ -9,6 +9,9 @@ Official code repository for paper "LSTPNet: Long Short-Term Perception Network 
     </em>
 </p>
 
+## Test
+- Please Run `python test.py`, `python test.py`, `python test.py`
+
 ## Results
 <p align="center">
     <img src="img/DFEW_result.png" width="100%"/> <br />
