@@ -35,3 +35,16 @@ Please run `python test_DFEW.py`, `python test_FERV39k.py`, `python test_AFEW.py
     Comparison with state-of-the-art methods on AFEW. The best results are highlighted in bold.
     </em>
 </p>
+
+## Citation
+Please cite the following paper if you use this repository in your research:
+```
+@article{LU2024104915,
+    title = {LSTPNet: Long short-term perception network for dynamic facial expression recognition in the wild},
+    author = {Chengcheng Lu and Yiben Jiang and Keren Fu and Qijun Zhao and Hongyu Yang},
+    journal = {Image and Vision Computing},
+    volume = {142},
+    pages = {104915},
+    year = {2024}
+}
+```
